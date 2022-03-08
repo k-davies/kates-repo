@@ -1,0 +1,42 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #B0B8CD;
+}
+
+p {color: gray;}
+
+.navitem {
+    display: inline-block;
+    width: 10%;
+    background-color: #2C3C65;
+    padding: 20px;
+    margin-right: 8px;
+    margin-bottom: 16px;
+    border-radius: 8px;
+    font-weight: 500;
+    color: white;
+}
+
+.sidebar {
+    float: left;
+    width: 30%;
+    height: 900px;
+    text-align: center;
+}
+
+.main {
+    width:70%;
+    display: inline-block;
+    float: right;
+    height: 900px;
+}   
+img {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 40px;
+    border-radius: 8px;
+}
+
+.mainContent {
+    padding-left: 40px;
+}
